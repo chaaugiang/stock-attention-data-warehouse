@@ -39,7 +39,8 @@ The warehouse helps analysts spot mismatches between public attention and tradin
 ### 1. Identify attention that has not translated into trading
 
 **Microsoft, August 2022:** 
-**Twitter mentions: +136% · Trading volume: −25%**
+
+**Twitter mentions: +136%  Trading volume: -25%**
 Compared with their respective prior three-month averages
 
 Public discussion increased without a similar rise in trading. An analyst could review the tweets to distinguish investment related attention from product news or general conversation before treating the activity as a meaningful market signal
@@ -47,7 +48,7 @@ Public discussion increased without a similar rise in trading. An analyst could 
 ### 2. Flag trading increases that online attention may miss
 
 **Microsoft, March 2021:** 
-**Trading volume: +25% · Search interest: −17%**
+**Trading volume: +25% · Search interest: -17%**
 Compared with their respective prior three-month averages
 
 Monitoring search trends alone would not capture this increase in trading activity. The divergence gives an analyst a reason to examine company announcements, market movements, and other potential explanations
