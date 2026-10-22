@@ -25,7 +25,7 @@ The project covers AAPL, AMZN, GOOGL, MSFT, and TSLA from 2020 - 2022
 - Python ETL combines these sources into a local MySQL warehouse, which supports analysis across 180 company-months
 
 ## Warehouse Design
-![Star schema showing company and date dimensions connected to daily facts](docs/star_schema.pdf)
+![Star schema showing company and date dimensions connected to daily facts](docs/star_schema.png)
 
 - The fact table stores one record per company per trading day, combining prices, trading volume, tweet counts, buy/sell word counts, and search interest
 - Company and date dimensions connect through the composite key of ticker and stock date
