@@ -1,0 +1,20 @@
+# Private credentials
+.env
+.env.*
+!.env.example
+
+# Downloaded and generated data
+data/
+
+# Notebook checkpoints and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local Python environments
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
